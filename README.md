@@ -1,5 +1,5 @@
 # github-lecture-2025-5-31
-2025/05/31のgit/github講座で仕様するテンプレートリポジトリ
+2025/08/10のgit/github講座で仕様するテンプレートリポジトリ
 
 ## 使い方
 1. `use thie template` を押して、`create a new repository` を押す
